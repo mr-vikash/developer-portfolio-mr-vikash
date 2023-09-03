@@ -1,10 +1,11 @@
 export const educationData = [
+
     {
-        id: 3,
-        institution: 'Chandra Sekhar Azad Inter Collage',
-        course: 'Higher Secondary Education',
-        startYear: '2015',
-        endYear: '2016'
+        id: 1,
+        institution: 'Dr APJ Abdul Kalam Technical University, Lucknow',
+        course: 'Bachelor of Technology, Computer Science ',
+        startYear: '2019',
+        endYear: '2023'
     },
     {
         id: 2,
@@ -13,11 +14,12 @@ export const educationData = [
         startYear: '2017',
         endYear: '2018'
     },
+   
     {
-        id: 1,
-        institution: 'Dr APJ Abdul Kalam Technical University, Lucknow',
-        course: 'Bachelor of Technology, Computer Science ',
-        startYear: '2019',
-        endYear: '2023'
-    },
+        id: 3,
+        institution: 'Chandra Sekhar Azad Inter Collage',
+        course: 'Higher Secondary Education',
+        startYear: '2015',
+        endYear: '2016'
+    }
 ]
