@@ -1,6 +1,6 @@
 export const educationData = [
     {
-        id: 1,
+        id: 3,
         institution: 'Chandra Sekhar Azad Inter Collage',
         course: 'Higher Secondary Education',
         startYear: '2015',
@@ -14,7 +14,7 @@ export const educationData = [
         endYear: '2018'
     },
     {
-        id: 3,
+        id: 1,
         institution: 'Dr APJ Abdul Kalam Technical University, Lucknow',
         course: 'Bachelor of Technology, Computer Science ',
         startYear: '2019',
