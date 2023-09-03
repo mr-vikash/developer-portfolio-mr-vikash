@@ -225,6 +225,7 @@ export const skillsImage = (skill) => {
             return unity;
         case 'wolframalpha':
             return wolframalpha;
+            
         case 'canva':
             return canva;
         default:

@@ -1,23 +1,38 @@
 export const experienceData = [
     {
         id: 1,
-        company: 'Globex Corporation',
-        jobtitle: 'Frontend Developer',
-        startYear: '2018',
-        endYear: '2019'
+        
+        company: 'Unicosmosoft Private Limited Hydrabad, india',
+        jobtitle: 'Software Engineer Trainee',
+        startYear: '2023',
+        endYear: 'Present'
     },
     {
         id: 2,
-        company: 'Vehement Capital Partners',
-        jobtitle: 'Backend Developer',
-        startYear: '2019',
-        endYear: '2020'
+        company: 'Udemy',
+        jobtitle: 'Certified in React.js',
+        startYear: '2023',
+        endYear: '2023'
     },
     {
         id: 3,
-        company: 'Wonka Industries',
-        jobtitle: 'Marketing',
+        company: 'Udemy',
+        jobtitle: 'Certified in SQL',
+        startYear: '2023',
+        endYear: '2023'
+    },
+    {
+        id: 4,
+        company: 'Cetpa Infotech Private Limited, Noida',
+        jobtitle: 'Certified in Java and Advance java',
+        startYear: '2022',
+        endYear: '2022'
+    },
+    {
+        id: 5,
+        company: 'Akurailabs, Lucknow',
+        jobtitle: 'Certified in Java',
         startYear: '2020',
-        endYear: 'Present'
+        endYear: '2021'
     },
 ]
