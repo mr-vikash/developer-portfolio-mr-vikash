@@ -3,5 +3,5 @@ export const contactsData = {
     phone: '+91-6388636800',
     address: 'Lucknow, Uttar Pradesh, India - 226104 ',
 
-    sheetAPI: ''
+    sheetAPI: 'https://sheetdb.io/api/v1/6rhxgkgoffknv'
 }
