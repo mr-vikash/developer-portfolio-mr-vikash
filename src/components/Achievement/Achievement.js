@@ -18,7 +18,7 @@ function Achievement() {
                 
                 <div className="achievement-cards">
                 <div className="achievement-body">
-                    <h1 style={{color: theme.primary,paddingLeft:"400px"}}>Achievements</h1>
+                    <h1 style={{color: theme.primary,paddingLeft:"20px"}}>Achievements</h1>
                     {/* <h4 style={{color:theme.tertiary}}>{achievementData.bio}</h4> */}
                 </div>
                     {achievementData.achievements.map(achieve => ( 
