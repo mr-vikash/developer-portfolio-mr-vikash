@@ -4,7 +4,7 @@ export const socialsData = {
     linkedIn: 'https://www.linkedin.com/in/its-vikash-gupta',
     instagram: 'https://www.instagram.com/mrvikash700',
     codepen: 'https://codepen.io/',
-    twitter: 'https://twitter.com/',
+    twitter: 'https://twitter.com/home',
     reddit: 'https://www.reddit.com/user/',
     blogger: 'https://www.blogger.com/',
     medium: 'https://medium.com/@',
