@@ -8,7 +8,7 @@ export const achievementData = {
     achievements : [
         {
             id : 1,
-            title : 'React.js Certification',
+            title : 'React.js Training Certificate',
             details : 'React.js certifications validate your expertise and showcase your ability to transform businesses with React.js technology.',
             date : 'January, 2023',
             field : ' Web Development',
@@ -16,7 +16,7 @@ export const achievementData = {
         },
         {
             id : 2,
-            title : 'Java Certification',
+            title : 'Java Training Certificate',
             details : 'Java certifications validate your expertise and showcase your ability to transform businesses with Java technology.',
             date : 'October, 2022',
             field : 'Software Development',
@@ -24,7 +24,7 @@ export const achievementData = {
         },
         {
             id : 3,
-            title : 'MySQl Certification',
+            title : 'MySQl Training Certificate',
             details : 'MySQL certifications validate your expertise and showcase your ability to transform businesses with MySQL technology.',
             date : 'November, 2022',
             field : 'Database Management',
@@ -32,7 +32,7 @@ export const achievementData = {
         },
         {
             id : 4,
-            title : 'AWS Certification',
+            title : 'AWS Training Certificate',
             details : 'Validate technical skills and cloud expertise to grow your career and business.',
             date : 'July, 2022',
             field : 'Automation',
