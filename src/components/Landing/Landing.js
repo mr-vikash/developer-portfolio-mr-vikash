@@ -12,8 +12,8 @@ import {
     FaTwitter,
     FaLinkedin,
     FaGithub,
-    FaYoutube,
-    FaBlogger,
+    FaInstagram,
+    FaFacebook
 } from 'react-icons/fa';
 
 function Landing() {
@@ -101,6 +101,19 @@ function Landing() {
                                 />
                             </a>
                         )}
+                        {socialsData.instagram && (
+                            <a
+                                href={socialsData.instagram}
+                                target='_blank'
+                                rel='noreferrer'
+                            >
+                                <FaInstagram
+                                    className='landing--social'
+                                    style={{ color: theme.secondary }}
+                                    aria-label='YouTube'
+                                />
+                            </a>
+                        )}
                         {socialsData.twitter && (
                             <a
                                 href={socialsData.twitter}
@@ -114,26 +127,14 @@ function Landing() {
                                 />
                             </a>
                         )}
-                        {socialsData.youtube && (
+                        
+                        {socialsData.facebook && (
                             <a
-                                href={socialsData.youtube}
+                                href={socialsData.facebook}
                                 target='_blank'
                                 rel='noreferrer'
                             >
-                                <FaYoutube
-                                    className='landing--social'
-                                    style={{ color: theme.secondary }}
-                                    aria-label='YouTube'
-                                />
-                            </a>
-                        )}
-                        {socialsData.blogger && (
-                            <a
-                                href={socialsData.blogger}
-                                target='_blank'
-                                rel='noreferrer'
-                            >
-                                <FaBlogger
+                                <FaFacebook
                                     className='landing--social'
                                     style={{ color: theme.secondary }}
                                     aria-label='Blogger'
