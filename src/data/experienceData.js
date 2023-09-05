@@ -21,18 +21,18 @@ export const experienceData = [
     //     startYear: '2023',
     //     endYear: '2023'
     // },
-    // {
-    //     id: 4,
-    //     company: 'Cetpa Infotech Private Limited, Noida',
-    //     jobtitle: 'Certified in Java and Advance java',
-    //     startYear: '2022',
-    //     endYear: '2022'
-    // },
-    // {
-    //     id: 5,
-    //     company: 'Akurailabs, Lucknow',
-    //     jobtitle: 'Certified in Java',
-    //     startYear: '2020',
-    //     endYear: '2021'
-    // },
+    {
+        id: 4,
+        company: 'Cetpa Infotech Private Limited, Noida',
+        jobtitle: 'Intership and Training in Java and Advance java',
+        startYear: '2022',
+        endYear: '2022'
+    },
+    {
+        id: 5,
+        company: 'Akurailabs, Lucknow',
+        jobtitle: 'Internship in Java',
+        startYear: '2020',
+        endYear: '2021'
+    },
 ]
