@@ -1,7 +1,10 @@
 /* eslint-disable */
-import { BiShoppingBag, BiPencil } from "react-icons/bi";
-import { BsCodeSlash, BsClipboardData } from "react-icons/bs";
-import { AiOutlineMail, AiFillAudio } from "react-icons/ai";
+// import { BiShoppingBag, BiPencil } from "react-icons/bi";
+import {FaReact,FaJava,FaDatabase} from 'react-icons/fa'
+import { BsCodeSlash } from "react-icons/bs";
+// import { AiOutlineMail, AiFillAudio } from "react-icons/ai";
+import React from 'react';
+
 import { FaInternetExplorer,  FaChalkboardTeacher, FaCameraRetro, FaPinterest, FaVideo, FaTabletAlt, FaRegNewspaper } from "react-icons/fa";
 
  
@@ -10,12 +13,12 @@ export const servicesData = [
     {
         id: 2,
         title: 'Frontend Development',
-        icon: <BiPencil /> 
+        icon: <FaReact/>
     },
     {
         id: 3,
         title: 'Backend Development',
-        icon: <AiOutlineMail />
+        icon: <FaJava/>
     },
 
     {
@@ -23,16 +26,16 @@ export const servicesData = [
         title: 'Web Design',
         icon: <BsCodeSlash />
     },
-    {
-        id: 7,
-        title: 'Full Stack Development',
-        icon: <FaCameraRetro />
-    },
+    // {
+    //     id: 7,
+    //     title: 'Full Stack Development',
+    //     icon: <FaCameraRetro />
+    // },
     
     {
         id: 9,
         title: 'Database Design',
-        icon: <FaVideo />
+        icon:<FaDatabase/>
     },
 
 ]
