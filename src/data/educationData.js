@@ -2,8 +2,8 @@ export const educationData = [
 
     {
         id: 1,
-        institution: 'Dr APJ Abdul Kalam Technical University, Lucknow',
-        course: 'Bachelor of Technology, Computer Science ',
+        institution: 'Dr APJ Abdul Kalam Technical University',
+        course: 'Bachelor of Technology, CSE',
         startYear: '2019',
         endYear: '2023'
     },
