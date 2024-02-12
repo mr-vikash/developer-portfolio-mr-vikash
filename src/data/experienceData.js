@@ -2,8 +2,8 @@ export const experienceData = [
     {
         id: 1,
         
-        company: 'Unicosmosoft Private Limited Hydrabad, india',
-        jobtitle: 'Software Engineer Trainee',
+        company: 'Unihyr Labs Private Limited, india',
+        jobtitle: 'Software Engineer',
         startYear: '2023',
         endYear: 'Present'
     },
