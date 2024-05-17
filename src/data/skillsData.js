@@ -16,7 +16,7 @@
     'firebase',
     'aws',
     'Docker',
-    'Springboot'
+    'Spring Boot'
 
       
 ]
