@@ -1,9 +1,10 @@
  export const skillsData = [
     'Ruby',
-    'Ruby on Rails',
+    'Rails',
     'React',
     'Typescript',
     'Java',
+    'Spring',
     'MySQL',
     'HTML',
     'Javascript',

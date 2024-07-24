@@ -2,7 +2,7 @@ export const educationData = [
 
     {
         id: 1,
-        institution: 'Dr APJ Abdul Kalam Technical University',
+        institution: 'B.I.E.T Lucknow',
         course: 'Bachelor of Technology, CSE',
         startYear: '2019',
         endYear: '2023'
@@ -17,7 +17,7 @@ export const educationData = [
    
     {
         id: 3,
-        institution: 'Chandra Sekhar Azad Inter Collage',
+        institution: 'C.S.A Inter Collage',
         course: 'Higher Secondary Education',
         startYear: '2015',
         endYear: '2016'

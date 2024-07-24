@@ -72,6 +72,8 @@ import picsart from '../assets/svg/skills/picsart.svg'
 import sketch from '../assets/svg/skills/sketch.svg'
 import unity from '../assets/svg/skills/unity.svg'
 import wolframalpha from '../assets/svg/skills/wolframalpha.svg'
+import rails from '../assets/svg/skills/rails.svg'
+import spring from '../assets/svg/skills/spring.svg'
 
 import canva from '../assets/svg/skills/canva.svg'
 
@@ -157,6 +159,10 @@ export const skillsImage = (skill) => {
             return python;
         case 'ruby':
             return ruby;
+        case 'rails':
+             return rails;
+        case 'spring':
+            return spring;
         case 'swift':
             return swift;
         case 'adobe audition':
