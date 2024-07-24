@@ -1,6 +1,6 @@
  export const skillsData = [
     'Ruby',
-    'Rails',
+    'Ruby on Rails',
     'React',
     'Typescript',
     'Java',

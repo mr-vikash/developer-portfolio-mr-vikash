@@ -1,10 +1,9 @@
 export const experienceData = [
     {
         id: 1,
-        
         company: 'Unihyr Labs Private Limited, india',
         jobtitle: 'Software Engineer',
-        startYear: '2023',
+        startYear: 'July-2023',
         endYear: 'Present'
     },
     // {
@@ -23,16 +22,16 @@ export const experienceData = [
     // },
     {
         id: 4,
-        company: 'Cetpa Infotech Private Limited, Noida',
-        jobtitle: 'Intership and Training in Java and Advance java',
-        startYear: '2022',
-        endYear: '2022'
+        company: 'Unihyr Labs Private Limited, india',
+        jobtitle: 'Software Engineer Intern',
+        startYear: 'January-2023',
+        endYear: 'June-2022'
     },
     {
         id: 5,
         company: 'Akurailabs, Lucknow',
-        jobtitle: 'Internship in Java',
-        startYear: '2020',
-        endYear: '2021'
+        jobtitle: 'Java Intern',
+        startYear: 'May-2020',
+        endYear: 'June-2020'
     },
 ]
