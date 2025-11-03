@@ -1,10 +1,8 @@
 import java from "../assets/svg/skills/java.svg";
-import react from "../assets/svg/skills/react.svg";
-import mysql from "../assets/svg/skills/mysql.svg";
 import aws from "../assets/svg/skills/aws.svg";
 
 export const achievementData = {
-  bio: "",
+  bio: "Ruby on Rails and React.js developer with certifications in full-stack web development, database management, and cloud computing.",
   achievements: [
     {
       id: 1,
@@ -46,7 +44,6 @@ export const achievementData = {
       field: "Software Development",
       image: java,
     },
-    ,
     {
       id: 5,
       title: "AWS Training Certificate",
