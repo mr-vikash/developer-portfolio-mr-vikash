@@ -279,7 +279,7 @@ export const pinkThemeLight = {
     secondary50: '#eaeaea80',
     tertiary: '#212121',
     tertiary80: '#212121cc',
-    tertiary70: '#212121b3',
+    tertiary70: '#170b0bb3',
     tertiary50: '#21212180',
     aboutimg1: pinkThemeboy,
     aboutimg2: pinkThemegirl,
